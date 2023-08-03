@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "SEJAL.C": "cpp",
+        "cstdio": "cpp",
+        "cstring": "cpp",
+        "stdio.h": "c",
+        "VITO'S.C": "cpp",
+        "sstream": "cpp",
+        "string": "cpp",
+        "vitos.C": "cpp",
+        "vito's_family.C": "cpp"
+    }
+}
